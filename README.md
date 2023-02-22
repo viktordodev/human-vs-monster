@@ -1,4 +1,4 @@
-# Human Vs Monster
+# Human VS Monster
 
 ## Interactive Game for Children built with Vue 3
 
