@@ -1,24 +1,13 @@
 # Human Vs Monster
 
-## Project setup
-```
-npm install
-```
+## Interactive Game for Children built with Vue 3
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#Rules of game: 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Player attacks the monster using the Attack or Special Attack buttons.
+- You can only use Special Attack 2 times in the game
+- There is also an additional button which Heals you 
+- However gets to zero health looses the game
+- There is alos a surrender button if you are quiter :). Don't be! :)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
