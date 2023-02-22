@@ -6,7 +6,7 @@
 
 - Player attacks the monster using the Attack or Special Attack buttons.
 - You can only use Special Attack 2 times in the game
-- There is also an additional button which Heals you 
+- There is also an additional button which Heals you but you can only use it 3 times.
 - However gets to zero health looses the game
 - There is alos a surrender button if you are quiter :). Don't be! :)
 
