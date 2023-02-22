@@ -1,4 +1,4 @@
-# monsterattack
+# Human Vs Monster
 
 ## Project setup
 ```
